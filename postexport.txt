@@ -1,0 +1,124 @@
+
+Dear darrel,
+
+Welcome to hosting with Nexcess! Your account has been provisioned and is now active. This email contains all the account information you need to get started. We recommend you keep this email in a safe location for future reference. Our Client Portal allows you to manage your contact information, view billing details, view your submitted tickets, and more by visiting
+
+https://portal.nexcess.net
+
+Your login credentials for our Client Portal were created when you signed up for your first hosting service. 
+
+~~~ FOR ASSISTANCE ~~~
+
+* Our Support Team stands ready to assist you 24 hours a day, 365 days a year. Contact them by sending an email to support@nexcess.net or calling 1-866-639-2377 in the USA, 0808 120 7609 in the UK, or 1-800-765-472 in Australia. You may also use the support ticket system within NOCWorx to contact the Support Team.. 
+
+* Contact our Billing Team (available 9 a.m. to 5 p.m. eastern standard time, Monday through Friday) by sending an email to billing@nexcess.net or calling 1-866-639-2377 in the USA, 0808 120 7609 in the UK, or 1-800-765-472 in Australia.
+
+* You may also visit our Knowledge Library at 
+
+https://docs.nexcess.net/ 
+
+~~~ YOUR DOMAIN AND CONTROL PANEL ~~~
+
+Domain: themenshealthbox.com
+IP Address: 104.207.242.138
+Until you point your domain to Nexcess, you can access your site through your temporary domain:
+Temporary domain: http://themensh.nextmp.net
+Magento Administration Panel: http://themensh.nextmp.net/themensh_admin
+
+Magento username and password: 
+
+Frontend URL : http://themensh.nextmp.net/
+Backend URL : http://themensh.nextmp.net/themensh_admin/
+Admin User : admin
+Admin Pass : 3HxF67TVLlJhHwZA6j
+
+Please refer to our new Welcome Guide for Magento plans at lghttp.nex.nexcesscdn.net/803313/static/documents/Nexcess_Welcome_Guide.pdf
+
+Outbound Requests - Any outbound requests (such as to payment gateways or third party APIs) will originate from the following IP address:
+$main_serv_ip_addr
+
+Please note that if your third-party provider requires IP addresses connecting to their service to be whitelisted, you will need to whitelist the above IP address.
+
+~~~ SSH CREDENTIALS ~~~
+
+Enabled SSH access
+Hostname : sipmia2-17.nexcess.net
+Username : themensh
+Password : kfx.udz6kTPkfp1s
+
+To enable SSH credentials listed above, we ask that you whitelist your IP address via the SiteWorx control panel. 
+
+https://docs.nexcess.net/article/how-to-manage-firewall-whitelists-in-siteworx.html
+
+SiteWorx Control Panel:
+https://sipmia2-17.nexcess.net:2443/siteworx/?domain=themenshealthbox.com
+Login: darrel@theboxoutgroup.com
+Password: Qxnn~~fz<mGFz=X?
+
+For more information regarding SiteWorx, view our documentation at 
+
+https://docs.nexcess.net/category/siteworx/
+
+Your account nameservers:
+dns1463-1.nexcess.net
+dns1463-2.nexcess.net
+
+For more information about setting your nameservers, visit docs.nexcess.net/article/how-to-point-your-domain-name-to-nexcess-nameservers.html
+
+~~~ FTP CREDENTIALS ~~~
+
+For more information regarding FTP transfers, please see 
+
+https://docs.nexcess.net/article/how-to-use-ftp-sftp-to-transfer-files.html
+
+You will need to log in to SiteWorx and whitelist your IP for FTP access. You can do this by following this guide: 
+
+https://docs.nexcess.net/article/how-to-manage-firewall-whitelists-in-siteworx.html
+
+FTP Host: ftp.themenshealthbox.com
+FTP Username: ftp@themenshealthbox.com
+FTP Password: Qxnn~~fz><mGFz=X?
+VigorSwirlWadisDaunts64
+ait@themenshealthbox.com
+
+Until you point your domain to Nexcess, you can access your site through your temporary domain:
+FTP Host: themensh.nextmp.net
+
+~~~ EMAIL ~~~
+
+For additional help configuring your email client to work with your account, view our email tutorials at 
+
+https://docs.nexcess.net/category/email-configuration-and-management/
+
+Incoming (POP3 or IMAP) mail server: sipmia2-17.nexcess.net
+Outgoing (SMTP) mail server: sipmia2-17.nexcess.net
+You can access your Nexcess email account from anywhere at
+https://sipmia2-17.nexcess.net:2443/webmail
+
+~~~ADDITIONAL INFORMATION~~~
+
+* You can host more than one domain on your hosting account! To set up additional domains, follow our guide at 
+
+https://docs.nexcess.net/article/how-to-add-a-secondary-domain.html
+
+* You can read more about obtaining SSH (secure shell) access to your account at 
+
+https://docs.nexcess.net/article/how-to-enable-ssh-access-for-a-siteworx-account.html
+
+* You can also view the tutorial for generating and ordering your SSL certificate at 
+
+https://docs.nexcess.net/article/setting-up-a-ssl-certificate.html
+
+* Find out how to make some extra cash by participating in our affiliates program at 
+
+https://affiliates.nexcess.net/
+
+
+Thank you for choosing to host your website with Nexcess!
+--
+Nexcess - Beyond Hosting
+21700 Melrose Ave
+Southfield, MI 48075
+Phone: 18666392377
+Fax: 12482810473
+http://twitter.com/nexcess
